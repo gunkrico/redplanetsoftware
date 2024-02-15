@@ -5,12 +5,9 @@
         <table class="table table-striped">
             <thead>
                 <tr>
-                    <!-- <th style="width: 30%">First Name</th>
-                    <th style="width: 30%">Last Name</th>
-                    <th style="width: 30%">Username</th> -->
-                    <th><a (click)="sortBy('firstName')">First Name {{sortIcon('firstName')}}</a></th>
-                    <th><a (click)="sortBy('lastName')">Last Name {{sortIcon('lastName')}}</a></th>
-                    <th><a (click)="sortBy('username')">User Name {{sortIcon('username')}}</a></th>
+                    <th style="width: 30%"><a (click)="sortBy('firstName')">First Name {{sortIcon('firstName')}}</a></th>
+                    <th style="width: 30%"><a (click)="sortBy('lastName')">Last Name {{sortIcon('lastName')}}</a></th>
+                    <th style="width: 30%"><a (click)="sortBy('username')">User Name {{sortIcon('username')}}</a></th>
                     <th style="width: 10%"></th>
                 </tr>
             </thead>
@@ -32,23 +29,6 @@
                         <span class="spinner-border spinner-border-lg align-center"></span>
                     </td>
                 </tr>
-                <!-- <tr *ngFor="let user of users">
-                    <td>{{user.firstName}}</td>
-                    <td>{{user.lastName}}</td>
-                    <td>{{user.username}}</td>
-                    <td style="white-space: nowrap">
-                        <a routerLink="edit/{{user.id}}" class="btn btn-sm btn-primary me-1">Edit</a>
-                        <button (click)="deleteUser(user.id)" class="btn btn-sm btn-danger" style="width: 58px" [disabled]="user.isDeleting">
-                            <span *ngIf="user.isDeleting" class="spinner-border spinner-border-sm"></span>
-                            <span *ngIf="!user.isDeleting">Delete</span>
-                        </button>
-                    </td>
-                </tr>
-                <tr *ngIf="!users">
-                    <td colspan="4" class="text-center">
-                        <span class="spinner-border spinner-border-lg align-center"></span>
-                    </td>
-                </tr> -->
             </tbody>
         </table>
     </div>

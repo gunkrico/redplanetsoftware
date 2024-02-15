@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\",
+  "WorkspaceRootPath": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\aarikomahendra-usermanagement\\usermanagement\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\usermanagement\\usermanagement\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\aarikomahendra-usermanagement\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\usermanagement\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\aarikomahendra-usermanagement\\usermanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\usermanagement\\usermanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\aarikomahendra-usermanagement\\usermanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\usermanagement\\usermanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\aarikomahendra-usermanagement\\usermanagement\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\usermanagement\\usermanagement\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\aarikomahendra-usermanagement\\usermanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|d:\\private\\red planet software\\usermanagement\\usermanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EFB12D6B-C3DE-4578-A514-3BB0FC4D3F60}|WebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -40,74 +40,69 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\Services\\UserService.cs",
+              "DocumentMoniker": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\Services\\UserService.cs",
+              "ToolTip": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAADgvykAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T00:18:16.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T00:18:16.117Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAwwBcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T00:18:40.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T00:18:40.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\Entities\\User.cs",
+              "DocumentMoniker": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\Entities\\User.cs",
+              "ToolTip": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\Entities\\User.cs",
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T00:26:50.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T00:26:50.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\appsettings.Development.json",
+              "ToolTip": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-15T00:31:09.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T00:31:09.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\appsettings.json",
+              "DocumentMoniker": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\appsettings.json",
+              "ToolTip": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-15T00:31:13.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T00:31:13.294Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\README.md",
+              "DocumentMoniker": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\README.md",
               "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\Private\\Red Planet Software\\AARikoMahendra-UserManagement\\UserManagement\\README.md",
+              "ToolTip": "D:\\Private\\Red Planet Software\\UserManagement\\UserManagement\\README.md",
               "RelativeToolTip": "README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
